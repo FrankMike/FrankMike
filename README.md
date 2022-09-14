@@ -1,4 +1,15 @@
-### Hi there 👋
+### Hey there 👋
+
+I'm Francesco
+
+👨🏻‍💻 Freelance software developer
+₿ Bitcoin enthusiast 
+🧑‍🤝‍🧑 Looking to collaborate on ₿itcoin projects
+🌱 Always looking to learn something new
+🛳 Love traveling
+📫 Let's connect! 
+🐣 https://twitter.com/framicheli
+
 
 <!--
 **FrankMike/FrankMike** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
