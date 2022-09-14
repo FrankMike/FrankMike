@@ -2,13 +2,13 @@
 
 I'm Francesco
 
-👨🏻‍💻 Freelance software developer
-₿ Bitcoin enthusiast 
-🧑‍🤝‍🧑 Looking to collaborate on ₿itcoin projects
-🌱 Always looking to learn something new
-🛳 Love traveling
-📫 Let's connect! 
-🐣 https://twitter.com/framicheli
+👨🏻‍💻 Freelance software developer <br/>
+₿ Bitcoin enthusiast <br/>
+🧑‍🤝‍🧑 Looking to collaborate on ₿itcoin projects <br/>
+🌱 Always looking to learn something new <br/>
+🛳 Love traveling <br/>
+📫 Let's connect! <br/>
+🐣 https://twitter.com/framicheli <br/>
 
 
 <!--
